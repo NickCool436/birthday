@@ -400,6 +400,15 @@ main {
 }
 
 
+.textdown {
+  color: white;
+  font-size: 10px;
+  position: absolute;
+  bottom: 0;
+  font-weight: 200;
+  font-family: "poppins", sans-serif;
+}
+
 @media (max-width: 960px) {
   html {
     font-size: 50%;
